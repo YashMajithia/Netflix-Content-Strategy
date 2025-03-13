@@ -48,8 +48,8 @@ This project analyzes Netflix content trends using **Python, Pandas, Matplotlib,
 ---
 
 📌 Future Improvements
-Deploy as an interactive Streamlit Dashboard
-Add more external factors for better forecasting
+- Deploy as an interactive Streamlit Dashboard
+- Add more external factors for better forecasting
 
 ---
 
